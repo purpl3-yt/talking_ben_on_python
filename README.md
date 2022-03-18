@@ -11,10 +11,15 @@ Screenshots:
 
 # How to install
 ## On windows
-1) `pip install pysimplegui`
-2) `pip install playsound==1.2.2` another version doesn't (idk why)
+1)  Download the repository
+2)  Unarchive .zip file
+3) `pip install pysimplegui` Install packages
+4) `pip install playsound==1.2.2` another version doesn't work (idk why)
 
 ## On Linux/Unix
-1) `pip install pysimplegui`
-2) `sudo apt install python3-tk` 
-3) `pip install playsound==1.2.2`
+1) `git clone https://github.com/purpl3-yt/talking_ben_on_python.git` Download repository
+2) `cd talking_ben_on_python` Go to the folder
+4) `pip install pysimplegui` Install packages
+5) `sudo apt install python3-tk` Install packages
+6) `pip install playsound==1.2.2` Install packages
+7) `python3 ben.py` Run the file
