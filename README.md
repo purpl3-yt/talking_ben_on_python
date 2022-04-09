@@ -23,3 +23,8 @@ Screenshots:
 5) `sudo apt install python3-tk` Install packages
 6) `pip install playsound==1.2.2` Install packages
 7) `python3 ben.py` Run the file
+
+
+
+# Мой дискорд = PLNT#5507
+# Мой дискорд сервер = https://bit.ly/312UV3E
